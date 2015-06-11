@@ -8,5 +8,4 @@ Maintainer: Nathan Byers <natebyers@gmail.com>
 Description: Transform extracted data for database migration
 License: GPL-3
 LazyData: TRUE
-Depends: dplyr, tidyr
 Suggests: testthat
