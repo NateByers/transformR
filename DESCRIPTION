@@ -1,0 +1,12 @@
+Package: transformR
+Type: Package
+Title: Transform extracted data for database migration
+Version: 0.1
+Date: 2015-06-03
+Author: Nathan Byers
+Maintainer: Nathan Byers <natebyers@gmail.com>
+Description: Transform extracted data for database migration
+License: GPL-3
+LazyData: TRUE
+Depends: dplyr, tidyr
+Suggests: testthat
